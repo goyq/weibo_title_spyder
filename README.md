@@ -10,7 +10,7 @@
 
 ## 备注
 .json文件为空.<br />
-myself.py  test.py为中途插叙使用的测试代码，无实用.<br />
+myself.py   test.py  weibo_wanlian_myself.csv为中途插叙使用的测试代码，无实用.<br />
 使用的库和方法以及相关代码注释都在代码中.
 
 ### 使用手册
