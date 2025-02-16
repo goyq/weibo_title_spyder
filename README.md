@@ -4,12 +4,12 @@
 本代码均个人独立完成.
 
 ## 项目流程
-# 1.话题为“网恋”的爬取
+### 1.话题为“网恋”的爬取
 先爬取数据，[weibo_wanlian.py](https://github.com/goyq/weibo_title_spyder/blob/main/weibo_wanlian.py)，存储到weibo_wanlian_myself.csv.<br />
 
 进行统计分析，[weibo_wl_bi.py](https://github.com/goyq/weibo_title_spyder/blob/main/weibo_bi.py) ,针对数据利用相关Python库进行统计柱状图显示、情感分析、分词统计词频、大屏展示等.
 
-# 2.话题为“婚恋意愿”的爬取
+### 2.话题为“婚恋意愿”的爬取
 先爬取数据，[weibo_hunlianyiyuan.py](https://github.com/goyq/weibo_title_spyder/blob/main/weibo_hunlianyiyuan.py)，存储到weibo_wanlian_myself.csv.<br />
 
 进行统计分析，[weibo_hunlianyiyuan_bi.py](https://github.com/goyq/weibo_title_spyder/blob/main/weibo_hunlianyiyuan_bi.py) ,针对数据利用相关Python库进行统计柱状图显示、情感分析、分词统计词频、大屏展示等.
