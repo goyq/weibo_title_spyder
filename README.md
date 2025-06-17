@@ -28,4 +28,4 @@ test.py 为中途插叙使用的测试代码，无实用.<br />
 
 
 ## License
-Apache License 2.0
+CC BY-NC 4.0 ---updated
